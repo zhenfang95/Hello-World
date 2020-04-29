@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="090ab29a-3e74-49e1-9eda-47d087a0c05a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SBSWwCTS9HIMKVERkyFPoRVZ00" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.id" value="SQL Inserts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gitlab/autoTest_payall/XiaoePayall" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\testdata\python\mystudy\wlpc\html解析" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.rsetful01">
+    <configuration name="api01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask1/api01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysql1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql1/my02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_updata" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysql1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql1/my_updata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rsetful01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask1/rsetful01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xiaoelx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aaa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa/xiaoelx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.rsetful01" />
+        <item itemvalue="Python.api01" />
+        <item itemvalue="Python.xiaoelx" />
+        <item itemvalue="Python.my_updata" />
+        <item itemvalue="Python.my02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.12608226" />
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@71fdff15" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@71fdff15" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@41b20487" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@71fdff15" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@53b56d09" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="090ab29a-3e74-49e1-9eda-47d087a0c05a" name="Default Changelist" comment="" />
+      <created>1571035530319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571035530319</updated>
+      <workItem from="1571035531420" duration="31000" />
+      <workItem from="1571035571024" duration="4054000" />
+      <workItem from="1571041216122" duration="2474000" />
+      <workItem from="1571143678932" duration="126000" />
+      <workItem from="1571379786014" duration="1935000" />
+      <workItem from="1571623142278" duration="2501000" />
+      <workItem from="1571969460880" duration="11246000" />
+      <workItem from="1572416624175" duration="5027000" />
+      <workItem from="1572486151152" duration="2637000" />
+      <workItem from="1572589318423" duration="619000" />
+      <workItem from="1572958281622" duration="81000" />
+      <workItem from="1573022153187" duration="393000" />
+      <workItem from="1573131289426" duration="1227000" />
+      <workItem from="1573635242797" duration="64000" />
+      <workItem from="1573699088776" duration="8325000" />
+      <workItem from="1573715279964" duration="19908000" />
+      <workItem from="1574045760495" duration="748000" />
+      <workItem from="1574046886682" duration="3404000" />
+      <workItem from="1574057993406" duration="10824000" />
+      <workItem from="1574129682335" duration="12933000" />
+      <workItem from="1574668610087" duration="609000" />
+      <workItem from="1574822262951" duration="8256000" />
+      <workItem from="1575251994269" duration="11264000" />
+      <workItem from="1575354287123" duration="8539000" />
+      <workItem from="1575514320382" duration="100000" />
+      <workItem from="1575514709723" duration="1355000" />
+      <workItem from="1575527156810" duration="654000" />
+      <workItem from="1575872236138" duration="1521000" />
+      <workItem from="1575977295209" duration="1281000" />
+      <workItem from="1575978599067" duration="890000" />
+      <workItem from="1576030826733" duration="20000" />
+      <workItem from="1576117872822" duration="79000" />
+      <workItem from="1576320512226" duration="2162000" />
+      <workItem from="1576462762929" duration="18000" />
+      <workItem from="1576551238667" duration="1044000" />
+      <workItem from="1576566887400" duration="812000" />
+      <workItem from="1576575800134" duration="161000" />
+      <workItem from="1576641414672" duration="8000" />
+      <workItem from="1576661471050" duration="362000" />
+      <workItem from="1576663637240" duration="1020000" />
+      <workItem from="1576720488643" duration="26000" />
+      <workItem from="1576826990999" duration="249000" />
+      <workItem from="1577169883445" duration="2773000" />
+      <workItem from="1577688302726" duration="614000" />
+      <workItem from="1577756611699" duration="1118000" />
+      <workItem from="1577967549947" duration="1111000" />
+      <workItem from="1578017486179" duration="677000" />
+      <workItem from="1578033734959" duration="2520000" />
+      <workItem from="1578275486631" duration="311000" />
+      <workItem from="1578471148695" duration="3135000" />
+      <workItem from="1578563994730" duration="683000" />
+      <workItem from="1578570537218" duration="7513000" />
+      <workItem from="1578647565123" duration="802000" />
+      <workItem from="1578895865201" duration="1553000" />
+      <workItem from="1578899710310" duration="7476000" />
+      <workItem from="1579053582862" duration="10000" />
+      <workItem from="1583997078310" duration="2181000" />
+      <workItem from="1584323902864" duration="5420000" />
+      <workItem from="1584436946322" duration="13088000" />
+      <workItem from="1585040009223" duration="1998000" />
+      <workItem from="1585103349275" duration="1524000" />
+      <workItem from="1585122709216" duration="4281000" />
+      <workItem from="1585128262415" duration="1693000" />
+      <workItem from="1585532578398" duration="7843000" />
+      <workItem from="1585658632430" duration="1154000" />
+      <workItem from="1585706014916" duration="18477000" />
+      <workItem from="1585878182562" duration="7719000" />
+      <workItem from="1586224842381" duration="49547000" />
+      <workItem from="1587347413190" duration="10057000" />
+      <workItem from="1587894617968" duration="10901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mystudy$my_select.coverage" NAME="my_select Coverage Results" MODIFIED="1586503876724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
+    <SUITE FILE_PATH="coverage/mystudy$.coverage" NAME="遍历域名 Coverage Results" MODIFIED="1583997102989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wlpc/数据采集" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_lecturer_1.coverage" NAME="Unittests for updateCookie.updateCookies.test_lecturer_1 Coverage Results" MODIFIED="1578896129264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$base64_a.coverage" NAME="base64_a Coverage Results" MODIFIED="1576575889894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$rsetful01.coverage" NAME="rsetful01 Coverage Results" MODIFIED="1587113662649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask1" />
+    <SUITE FILE_PATH="coverage/mystudy$api01.coverage" NAME="api01 Coverage Results" MODIFIED="1587112635612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask1" />
+    <SUITE FILE_PATH="coverage/mystudy$xiaoeeee.coverage" NAME="xiaoeeee Coverage Results" MODIFIED="1577968061444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$updateCookie.coverage" NAME="updateCookie Coverage Results" MODIFIED="1586249262902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/mystudy$www.coverage" NAME="www Coverage Results" MODIFIED="1576117941558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_Applet.coverage" NAME="Unittests for updateCookie.updateCookies.test_Applet Coverage Results" MODIFIED="1575979455985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$xiaoelx.coverage" NAME="xiaoelx Coverage Results" MODIFIED="1587032124050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$xxx02.coverage" NAME="xxx02 Coverage Results" MODIFIED="1578901736919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wlpc" />
+    <SUITE FILE_PATH="coverage/mystudy$my_updata.coverage" NAME="my_updata Coverage Results" MODIFIED="1586855449984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_student_2.coverage" NAME="Unittests for updateCookie.updateCookies.test_student_2 Coverage Results" MODIFIED="1575977930454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_lecturer_3.coverage" NAME="Unittests for updateCookie.updateCookies.test_lecturer_3 Coverage Results" MODIFIED="1575978706783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$my_delete.coverage" NAME="my_delete Coverage Results" MODIFIED="1586504224670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
+    <SUITE FILE_PATH="coverage/mystudy$xxx01.coverage" NAME="xxx01 Coverage Results" MODIFIED="1578899739905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wlpc" />
+    <SUITE FILE_PATH="coverage/mystudy$unicode1.coverage" NAME="unicode1 Coverage Results" MODIFIED="1575454216250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_student.coverage" NAME="Unittests for updateCookie.updateCookies.test_student Coverage Results" MODIFIED="1578896074149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_in_updateCookie_py.coverage" NAME="Unittests in updateCookie.py Coverage Results" MODIFIED="1578897402949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$my01.coverage" NAME="my01 Coverage Results" MODIFIED="1586490431198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
+    <SUITE FILE_PATH="coverage/mystudy$w111.coverage" NAME="w111 Coverage Results" MODIFIED="1575454811548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_student_4.coverage" NAME="Unittests for updateCookie.updateCookies.test_student_4 Coverage Results" MODIFIED="1575978798870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_lecturer.coverage" NAME="Unittests for updateCookie.updateCookies.test_lecturer Coverage Results" MODIFIED="1578896113184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_student_3.coverage" NAME="Unittests for updateCookie.updateCookies.test_student_3 Coverage Results" MODIFIED="1575978495919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$xxx03.coverage" NAME="xxx03 Coverage Results" MODIFIED="1578904315805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wlpc" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_lecturer_2.coverage" NAME="Unittests for updateCookie.updateCookies.test_lecturer_2 Coverage Results" MODIFIED="1575978287534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$my_insert.coverage" NAME="my_insert Coverage Results" MODIFIED="1586500111523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
+    <SUITE FILE_PATH="coverage/mystudy$my02.coverage" NAME="my02 Coverage Results" MODIFIED="1586504333072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
+  </component>
+</project>

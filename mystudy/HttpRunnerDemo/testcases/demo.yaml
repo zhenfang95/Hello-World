@@ -1,0 +1,24 @@
+ - config:
+    request:
+      headers: $content
+      base_url: $host
+      url: /commons_service/weather/getWeatherListByLocation?appType=6&requestId=777777
+      method: POST
+
+ - test:
+    name: test weather ID1
+    request:
+      json:
+        body: {"lat":"","lng":"","city":"深圳市"}
+    validate:
+      - eq: [status_code,200]
+      - eq: [json.msg,"成功"]
+
+ - test:
+     name: test weather ID2
+     request:
+       json:
+         body: { "lat":"123","lng":"125","city":""}
+     validate:
+       - eq: [status_code,200]
+       - eq: [json.msg,"成功"]
