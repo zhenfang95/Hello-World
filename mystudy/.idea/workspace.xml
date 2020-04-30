@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="090ab29a-3e74-49e1-9eda-47d087a0c05a" name="Default Changelist" comment="" />
+    <list default="true" id="090ab29a-3e74-49e1-9eda-47d087a0c05a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/conftest/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/conftest/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/fixclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/fixclass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/fixt01.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/fixt01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/fixture之conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/fixture之conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/fixture详解" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/fixture详解" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/baidu/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/baidu/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/baidu/test_1_baidu.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/baidu/test_1_baidu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/baidu/test_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/baidu/test_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/blog/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/blog/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/blog/test_2_blog.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/blog/test_2_blog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/分布式执行详解" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/分布式执行详解" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/pytest说明.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/pytest说明.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/参数化parametrize.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/参数化parametrize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/命令行传参/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/命令行传参/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/命令行传参/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/命令行传参/test_01.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +48,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1SBSWwCTS9HIMKVERkyFPoRVZ00" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.data.extractors.current.id" value="SQL Inserts" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gitlab/autoTest_payall/XiaoePayall" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.rsetful01">
+  <component name="RunManager" selected="Python.test_01">
     <configuration name="api01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mystudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fixture之conftest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mystudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,34 +115,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysql1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fzf_pytest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql1/my02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="my_updata" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mystudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysql1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql1/my_updata.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fzf_pytest/fixture之conftest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="xiaoelx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mystudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,12 +159,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aaa" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fzf_pytest/命令行传参" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa/xiaoelx.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fzf_pytest/命令行传参/test_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fzf_pytest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fzf_pytest/test_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_01" />
+        <item itemvalue="Python.fixture之conftest" />
+        <item itemvalue="Python.test_class" />
         <item itemvalue="Python.rsetful01" />
         <item itemvalue="Python.api01" />
-        <item itemvalue="Python.xiaoelx" />
-        <item itemvalue="Python.my_updata" />
-        <item itemvalue="Python.my02" />
       </list>
     </recent_temporary>
   </component>
@@ -195,11 +219,6 @@
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
               <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@71fdff15" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               <item name="com.intellij.execution.services.ServiceModel$ServiceNode@41b20487" type="9fbbdea:ServiceModel$ServiceNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@71fdff15" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@53b56d09" type="9fbbdea:ServiceModel$ServiceNode" />
             </path>
           </expand>
           <select />
@@ -286,12 +305,24 @@
       <workItem from="1585878182562" duration="7719000" />
       <workItem from="1586224842381" duration="49547000" />
       <workItem from="1587347413190" duration="10057000" />
-      <workItem from="1587894617968" duration="10901000" />
+      <workItem from="1587894617968" duration="17341000" />
+      <workItem from="1588231436147" duration="6914000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mystudy$my_select.coverage" NAME="my_select Coverage Results" MODIFIED="1586503876724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
@@ -315,13 +346,16 @@
     <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_student.coverage" NAME="Unittests for updateCookie.updateCookies.test_student Coverage Results" MODIFIED="1578896074149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/mystudy$Unittests_in_updateCookie_py.coverage" NAME="Unittests in updateCookie.py Coverage Results" MODIFIED="1578897402949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/mystudy$my01.coverage" NAME="my01 Coverage Results" MODIFIED="1586490431198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
+    <SUITE FILE_PATH="coverage/mystudy$fixtureconftest.coverage" NAME="fixture之conftest Coverage Results" MODIFIED="1588228267956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fzf_pytest" />
     <SUITE FILE_PATH="coverage/mystudy$w111.coverage" NAME="w111 Coverage Results" MODIFIED="1575454811548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_student_4.coverage" NAME="Unittests for updateCookie.updateCookies.test_student_4 Coverage Results" MODIFIED="1575978798870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1588230897248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fzf_pytest/命令行传参" />
     <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_lecturer.coverage" NAME="Unittests for updateCookie.updateCookies.test_lecturer Coverage Results" MODIFIED="1578896113184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_student_3.coverage" NAME="Unittests for updateCookie.updateCookies.test_student_3 Coverage Results" MODIFIED="1575978495919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/mystudy$xxx03.coverage" NAME="xxx03 Coverage Results" MODIFIED="1578904315805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wlpc" />
     <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_lecturer_2.coverage" NAME="Unittests for updateCookie.updateCookies.test_lecturer_2 Coverage Results" MODIFIED="1575978287534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/mystudy$my_insert.coverage" NAME="my_insert Coverage Results" MODIFIED="1586500111523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
+    <SUITE FILE_PATH="coverage/mystudy$test_class.coverage" NAME="test_class Coverage Results" MODIFIED="1588226760477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fzf_pytest" />
     <SUITE FILE_PATH="coverage/mystudy$my02.coverage" NAME="my02 Coverage Results" MODIFIED="1586504333072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
   </component>
 </project>

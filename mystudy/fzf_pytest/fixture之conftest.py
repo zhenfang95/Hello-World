@@ -7,7 +7,7 @@ import pytest
 def login():
     print("输入账号，密码先登录")
 
-def test_s1(login):
+def test_s1(login): #每次执行用例前先执行login
     print("用例1：登录后其他操作111")
 
 def test_s2():

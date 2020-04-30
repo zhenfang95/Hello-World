@@ -28,7 +28,7 @@ class TestClass():
     def test_02(self):
         print('执行用例--test_02')
         x = 'hello'
-        assert hasattr(x, 'check')
+        assert hasattr(x, 'check')   #hasattr() 函数用于判断对象是否包含对应的属性。
 
     def test_03(self):
         print('执行用例--test_03')

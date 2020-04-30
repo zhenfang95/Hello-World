@@ -57,6 +57,7 @@ pytest --maxfail=1
 当用例错误个数达到指定数量时，停止测试
 
 五、pycharm运行三种方式
+在cmd运行，打印运行方法下面的print要在后面加“-s”
 1、以xx.py脚本方式直接执行，当写的代码里面没用到unittest和pytest框架时，并且脚本名称不是以test_开头命名的，此时pycharm会以xx.py脚本方式运行
 2.当脚本命名为test_xx.py时，用到unittest框架，此时运行代码，pycharm会自动识别到以unittest方式运行
 3.以pytest方式运行，需要改该工程设置默认的运行器：file->Setting->Tools->Python Integrated Tools->项目名称->Default test runner->选择py.test

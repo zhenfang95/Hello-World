@@ -14,11 +14,11 @@ def test_eval(test_input,expected):
     assert eval(test_input) == expected
 
 
-# 参数组合
-# @pytest.mark.parametrize('x', [0, 1])
-# @pytest.mark.parametrize('y', [2, 3])
-# def test_foo(x, y):
-#     print("测试数据组合：x->%s,y->%s" % (x, y))
+# 参数组合,x,y交叉组合
+@pytest.mark.parametrize('x', [0, 1])
+@pytest.mark.parametrize('y', [2, 3])
+def test_foo(x, y):
+    print("测试数据组合：x->%s,y->%s" % (x, y))
 
 
 if __name__ == '__main__':
