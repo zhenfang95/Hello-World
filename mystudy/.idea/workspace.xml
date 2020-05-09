@@ -2,30 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="090ab29a-3e74-49e1-9eda-47d087a0c05a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mockdemo/mock_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mockdemo/mock_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mockdemo/mock_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postman转化python/demo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postman转化python/xiaoe.postman_collection.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mystudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mystudy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/分布式执行详解" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/分布式执行详解" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,8 +27,14 @@
   </component>
   <component name="ProjectId" id="1SBSWwCTS9HIMKVERkyFPoRVZ00" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.data.extractors.current.id" value="SQL Inserts" />
@@ -58,20 +52,8 @@
       <recent name="D:\testdata\python\mystudy\wlpc\html解析" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python tests.Unittests in mock_03.py">
-    <configuration name="fixture之conftest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.demo01">
+    <configuration name="demo01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mystudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,12 +61,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fzf_pytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/postman转化python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fzf_pytest/fixture之conftest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/postman转化python/demo01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,34 +144,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo01" />
         <item itemvalue="Python tests.Unittests in mock_03.py" />
         <item itemvalue="Python tests.Unittests in mock_02.py" />
         <item itemvalue="Python tests.Unittests in mock_01.py" />
         <item itemvalue="Python.test_01" />
-        <item itemvalue="Python.fixture之conftest" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="allServicesViewState">
-      <serviceView>
-        <option name="contentProportion" value="0.12608226" />
-        <treeState>
-          <expand>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@71fdff15" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@71fdff15" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@41b20487" type="9fbbdea:ServiceModel$ServiceNode" />
-            </path>
-          </expand>
-          <select />
-        </treeState>
-      </serviceView>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -274,6 +235,12 @@
       <workItem from="1588231436147" duration="6914000" />
       <workItem from="1588238541062" duration="248000" />
       <workItem from="1588924501754" duration="4574000" />
+      <workItem from="1588989875408" duration="690000" />
+      <workItem from="1588990602480" duration="1313000" />
+      <workItem from="1588992338056" duration="6856000" />
+      <workItem from="1589016238357" duration="298000" />
+      <workItem from="1589016553718" duration="320000" />
+      <workItem from="1589018536891" duration="531000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1588238644592</created>
@@ -286,60 +253,94 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
     <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="345" y="57" key="#SSH_Configurations" timestamp="1589019068135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="345" y="57" key="#SSH_Configurations/0.0.1536.824@0.0.1536.824" timestamp="1589019068135" />
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589019052848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589019052848" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589018599589">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589018599589" />
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1589012066388">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589012066388" />
+    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1589012066388">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589012066388" />
+    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1589012066388">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589012066388" />
+    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1589012066388">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589012066388" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1589019002129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589019002129" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/mystudy$my_select.coverage" NAME="my_select Coverage Results" MODIFIED="1586503876724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
-    <SUITE FILE_PATH="coverage/mystudy$.coverage" NAME="遍历域名 Coverage Results" MODIFIED="1583997102989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wlpc/数据采集" />
-    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_lecturer_1.coverage" NAME="Unittests for updateCookie.updateCookies.test_lecturer_1 Coverage Results" MODIFIED="1578896129264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$base64_a.coverage" NAME="base64_a Coverage Results" MODIFIED="1576575889894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$rsetful01.coverage" NAME="rsetful01 Coverage Results" MODIFIED="1587113662649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask1" />
-    <SUITE FILE_PATH="coverage/mystudy$api01.coverage" NAME="api01 Coverage Results" MODIFIED="1587112635612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask1" />
-    <SUITE FILE_PATH="coverage/mystudy$xiaoeeee.coverage" NAME="xiaoeeee Coverage Results" MODIFIED="1577968061444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$updateCookie.coverage" NAME="updateCookie Coverage Results" MODIFIED="1586249262902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
-    <SUITE FILE_PATH="coverage/mystudy$www.coverage" NAME="www Coverage Results" MODIFIED="1576117941558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_Applet.coverage" NAME="Unittests for updateCookie.updateCookies.test_Applet Coverage Results" MODIFIED="1575979455985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$xiaoelx.coverage" NAME="xiaoelx Coverage Results" MODIFIED="1587032124050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$xxx02.coverage" NAME="xxx02 Coverage Results" MODIFIED="1578901736919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wlpc" />
-    <SUITE FILE_PATH="coverage/mystudy$my_updata.coverage" NAME="my_updata Coverage Results" MODIFIED="1586855449984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
-    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_student_2.coverage" NAME="Unittests for updateCookie.updateCookies.test_student_2 Coverage Results" MODIFIED="1575977930454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_lecturer_3.coverage" NAME="Unittests for updateCookie.updateCookies.test_lecturer_3 Coverage Results" MODIFIED="1575978706783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$my_delete.coverage" NAME="my_delete Coverage Results" MODIFIED="1586504224670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
-    <SUITE FILE_PATH="coverage/mystudy$xxx01.coverage" NAME="xxx01 Coverage Results" MODIFIED="1578899739905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wlpc" />
-    <SUITE FILE_PATH="coverage/mystudy$unicode1.coverage" NAME="unicode1 Coverage Results" MODIFIED="1575454216250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_student.coverage" NAME="Unittests for updateCookie.updateCookies.test_student Coverage Results" MODIFIED="1578896074149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$Unittests_in_updateCookie_py.coverage" NAME="Unittests in updateCookie.py Coverage Results" MODIFIED="1578897402949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$my01.coverage" NAME="my01 Coverage Results" MODIFIED="1586490431198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
-    <SUITE FILE_PATH="coverage/mystudy$fixtureconftest.coverage" NAME="fixture之conftest Coverage Results" MODIFIED="1588228267956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fzf_pytest" />
-    <SUITE FILE_PATH="coverage/mystudy$w111.coverage" NAME="w111 Coverage Results" MODIFIED="1575454811548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$Unittests_in_mock_03_py.coverage" NAME="Unittests in mock_03.py Coverage Results" MODIFIED="1588929095520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mockdemo" />
-    <SUITE FILE_PATH="coverage/mystudy$Unittests_in_mock_02_py.coverage" NAME="Unittests in mock_02.py Coverage Results" MODIFIED="1588926353116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mockdemo" />
-    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_student_4.coverage" NAME="Unittests for updateCookie.updateCookies.test_student_4 Coverage Results" MODIFIED="1575978798870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1588230897248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fzf_pytest/命令行传参" />
-    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_lecturer.coverage" NAME="Unittests for updateCookie.updateCookies.test_lecturer Coverage Results" MODIFIED="1578896113184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_student_3.coverage" NAME="Unittests for updateCookie.updateCookies.test_student_3 Coverage Results" MODIFIED="1575978495919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$xxx03.coverage" NAME="xxx03 Coverage Results" MODIFIED="1578904315805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wlpc" />
-    <SUITE FILE_PATH="coverage/mystudy$Unittests_in_mock_01_py.coverage" NAME="Unittests in mock_01.py Coverage Results" MODIFIED="1588926047907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mockdemo" />
-    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_lecturer_2.coverage" NAME="Unittests for updateCookie.updateCookies.test_lecturer_2 Coverage Results" MODIFIED="1575978287534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$my_insert.coverage" NAME="my_insert Coverage Results" MODIFIED="1586500111523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
-    <SUITE FILE_PATH="coverage/mystudy$test_class.coverage" NAME="test_class Coverage Results" MODIFIED="1588226760477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fzf_pytest" />
     <SUITE FILE_PATH="coverage/mystudy$my02.coverage" NAME="my02 Coverage Results" MODIFIED="1586504333072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
+    <SUITE FILE_PATH="coverage/mystudy$base64_a.coverage" NAME="base64_a Coverage Results" MODIFIED="1576575889894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$xxx03.coverage" NAME="xxx03 Coverage Results" MODIFIED="1578904315805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wlpc" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_student_2.coverage" NAME="Unittests for updateCookie.updateCookies.test_student_2 Coverage Results" MODIFIED="1575977930454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1588230897248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fzf_pytest/命令行传参" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_lecturer_3.coverage" NAME="Unittests for updateCookie.updateCookies.test_lecturer_3 Coverage Results" MODIFIED="1575978706783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_Applet.coverage" NAME="Unittests for updateCookie.updateCookies.test_Applet Coverage Results" MODIFIED="1575979455985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$w111.coverage" NAME="w111 Coverage Results" MODIFIED="1575454811548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_lecturer.coverage" NAME="Unittests for updateCookie.updateCookies.test_lecturer Coverage Results" MODIFIED="1578896113184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_in_updateCookie_py.coverage" NAME="Unittests in updateCookie.py Coverage Results" MODIFIED="1578897402949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$rsetful01.coverage" NAME="rsetful01 Coverage Results" MODIFIED="1587113662649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask1" />
+    <SUITE FILE_PATH="coverage/mystudy$my_delete.coverage" NAME="my_delete Coverage Results" MODIFIED="1586504224670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
+    <SUITE FILE_PATH="coverage/mystudy$xiaoeeee.coverage" NAME="xiaoeeee Coverage Results" MODIFIED="1577968061444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$my_updata.coverage" NAME="my_updata Coverage Results" MODIFIED="1586855449984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_student_3.coverage" NAME="Unittests for updateCookie.updateCookies.test_student_3 Coverage Results" MODIFIED="1575978495919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_lecturer_1.coverage" NAME="Unittests for updateCookie.updateCookies.test_lecturer_1 Coverage Results" MODIFIED="1578896129264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$updateCookie.coverage" NAME="updateCookie Coverage Results" MODIFIED="1586249262902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/mystudy$xiaoelx.coverage" NAME="xiaoelx Coverage Results" MODIFIED="1587032124050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$.coverage" NAME="遍历域名 Coverage Results" MODIFIED="1583997102989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wlpc/数据采集" />
+    <SUITE FILE_PATH="coverage/mystudy$api01.coverage" NAME="api01 Coverage Results" MODIFIED="1587112635612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask1" />
+    <SUITE FILE_PATH="coverage/mystudy$xxx01.coverage" NAME="xxx01 Coverage Results" MODIFIED="1578899739905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wlpc" />
+    <SUITE FILE_PATH="coverage/mystudy$www.coverage" NAME="www Coverage Results" MODIFIED="1576117941558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$my_select.coverage" NAME="my_select Coverage Results" MODIFIED="1586503876724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
+    <SUITE FILE_PATH="coverage/mystudy$fixtureconftest.coverage" NAME="fixture之conftest Coverage Results" MODIFIED="1588228267956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fzf_pytest" />
+    <SUITE FILE_PATH="coverage/mystudy$my01.coverage" NAME="my01 Coverage Results" MODIFIED="1586490431198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
+    <SUITE FILE_PATH="coverage/mystudy$test_class.coverage" NAME="test_class Coverage Results" MODIFIED="1588226760477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fzf_pytest" />
+    <SUITE FILE_PATH="coverage/mystudy$xxx02.coverage" NAME="xxx02 Coverage Results" MODIFIED="1578901736919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wlpc" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_in_mock_02_py.coverage" NAME="Unittests in mock_02.py Coverage Results" MODIFIED="1588926353116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mockdemo" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_in_mock_03_py.coverage" NAME="Unittests in mock_03.py Coverage Results" MODIFIED="1588929095520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mockdemo" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_in_mock_01_py.coverage" NAME="Unittests in mock_01.py Coverage Results" MODIFIED="1588926047907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mockdemo" />
+    <SUITE FILE_PATH="coverage/mystudy$unicode1.coverage" NAME="unicode1 Coverage Results" MODIFIED="1575454216250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_lecturer_2.coverage" NAME="Unittests for updateCookie.updateCookies.test_lecturer_2 Coverage Results" MODIFIED="1575978287534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_student.coverage" NAME="Unittests for updateCookie.updateCookies.test_student Coverage Results" MODIFIED="1578896074149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$my_insert.coverage" NAME="my_insert Coverage Results" MODIFIED="1586500111523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
+    <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_student_4.coverage" NAME="Unittests for updateCookie.updateCookies.test_student_4 Coverage Results" MODIFIED="1575978798870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1589009945270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/postman转化python" />
   </component>
 </project>

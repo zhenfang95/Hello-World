@@ -44,13 +44,7 @@
       </schema-mapping>
       <ssh-properties>
         <enabled>true</enabled>
-        <proxy-host>106.52.224.60</proxy-host>
-        <proxy-port>22</proxy-port>
-        <local-port>22</local-port>
-        <secret-storage>master_key</secret-storage>
-        <user>alexfu</user>
-        <use-password>true</use-password>
-        <auth-type>PASSWORD</auth-type>
+        <ssh-config-id>be9cf8a1-b9f6-493a-b1f4-c400049de892</ssh-config-id>
       </ssh-properties>
     </data-source>
     <data-source name="现网次级业务库" uuid="0c702358-3548-440e-b458-a22d51c0f488">
@@ -68,12 +62,7 @@
       </schema-mapping>
       <ssh-properties>
         <enabled>true</enabled>
-        <proxy-host>106.52.224.60</proxy-host>
-        <proxy-port>22</proxy-port>
-        <secret-storage>master_key</secret-storage>
-        <user>alexfu</user>
-        <use-password>true</use-password>
-        <auth-type>PASSWORD</auth-type>
+        <ssh-config-id>f593e961-af6d-46fe-a81c-83cbaadb9912</ssh-config-id>
       </ssh-properties>
     </data-source>
   </component>
