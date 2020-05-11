@@ -2,10 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="090ab29a-3e74-49e1-9eda-47d087a0c05a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mockdemo/mock_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mockdemo/mock_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mockdemo/mock_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/03cc0095-6de4-47ea-b016-fa67eb59c765-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/05aed64e-3dfb-4998-aedd-e5bca0198b55-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/08fa248d-72c6-4bf7-ac3d-3ff382723788-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/0b4c8f48-f0a1-4277-b9fd-c5333da8b1a9-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/17ed5a6b-4e18-4ad4-a9f8-2360c6d825e6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/1e00c522-4d9d-44e3-9633-f1a811282892-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/1f3710bd-f8c0-4da1-b6f4-9d44651982b8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/24fc6a4d-4369-48e8-8fe6-4e6f3c6b3ef8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/2b45bdb9-40bb-4921-81da-cc00082a164f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/308cd5d4-2907-423a-8c5c-cc45b4bbdd48-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/3bfd7246-2bf6-419d-9900-029868208981-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/3e5e4a01-9001-4476-8ae4-19d465fd337a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/3f1bde20-cdbf-4a62-a977-4cbe9025275e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/43d6a65d-cab6-4d18-baa8-e662f19f0e84-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/470a7125-8b9b-4b4a-a113-deace1118155-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/492820b7-33e3-461e-ae9a-374f9a7b5e17-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/4df4e8ae-da69-4e16-9cde-50409391522d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/4e4f7707-cc80-407e-84a4-e0e4d7e26f8e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/4e733a4f-fc6c-41ad-9a70-6b9c7763ee7a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/55042dbd-0407-4727-b093-748dfd776b6b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/582dc901-86ee-4975-979e-8b4bf595e19e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/60803ab2-12a2-4467-8236-c69f68948e42-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/613fbb88-5354-4dae-a2d5-77e9d06e99d9-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/648a6c99-90c4-4665-8230-f661f7ac89c2-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/6eeb58a6-70d6-463b-b6dc-2ad3bbc08672-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/727e4c79-6471-4858-856b-1e749f8b21e8-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/75176044-2b9d-4a9d-8c93-f1042797a6d6-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/772efb39-d2d3-4372-9703-093ae78a9d9e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/79049c05-2d99-469d-b783-f6abd4ebe511-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/7b9a1e87-4233-46f2-a895-ca8baa9c7acb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/7e4554a0-35ab-4f2c-82be-1df2269ef5a3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/806b30e1-fa98-46e6-a060-0b4d27a4e375-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/84378930-9433-46e0-b3d9-fb1aaba5cdaa-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/84db4464-c828-4cec-8517-b50a2a0ba22a-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/86c31890-813c-4075-b40c-0f2f29b7303d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/8721cf6d-34ec-4295-960f-c1cd837f5407-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/8ee2df8c-c6b6-46c2-90ec-dc50600f4005-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/9357b763-1e09-4c5c-8501-39d7ecbbd170-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/93bae9d3-ef7a-4c70-b481-ef88e1154fc8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/967d395b-8b39-4ea4-adfd-70816dfde720-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/96cc715a-2c4c-4a67-81df-9fba336907ec-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/99034574-0f82-4035-b5d2-df29524bdc7f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/9d893688-6451-40f2-aee1-007d014abc8d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/9dcbbb75-d407-4d48-a265-64ebf24b0589-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/a4e1005f-cee3-4e26-91c4-c0aa886657b4-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/a61257ed-e3b0-475a-aff5-3a34e8535b0f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/a8634983-3bcb-4787-a73f-318b728d1e58-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/a933dda4-d7a6-47a3-8ca0-d179d3009494-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/a9c61d20-6cdb-491e-a50c-7067c4dfa096-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/aa0f2d67-415f-4553-9695-53d3d90d8ba0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/acd6628c-a22d-44ea-9058-d2a0cd5da4b1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/ad3b417b-ddfa-4b17-9200-e205c091992f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/aebf2fa9-c383-4bba-9077-b66948032f5c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/bd2acb73-05f9-467a-8606-d97038c05d3c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/bfa33464-3cb3-46a6-973f-86ceadc5f23d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/cda3e5b4-cd86-4c68-b347-65fc409153bb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/d57b3fc7-603b-446e-a283-c5dd48f0b521-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/da816ddf-5f38-4ddf-868b-22b5c4898909-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/de068ac3-ce08-46a8-8a70-54f08e2daec7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/e5b9f7bd-d659-4f7a-97e6-63f3bd321e26-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/f57d29f4-d422-494f-a3d0-a37b741cd6b4-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/f635401d-e9ae-4b9f-bcf8-c6f84de522bf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/fad438df-286d-472d-b777-b780f32c431a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/fdda5d9f-40de-4d67-9966-ff6936ae40cc-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report/allure_raw/fe6ed4c5-edb0-46aa-bc89-875584a9ef0f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_pytest/py断言失败后继续执行.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/baidu/test_1_baidu.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/baidu/test_1_baidu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/baidu/test_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/baidu/test_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/blog/test_2_blog.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/blog/test_2_blog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/web_conf_py/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fzf_pytest/pytest说明.py" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/pytest说明.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,14 +112,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.data.extractors.current.id" value="SQL Inserts" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../mypytest" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -70,8 +138,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in mock_03.py">
-    <configuration name="fixture之conftest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.py断言失败后继续执行">
+    <configuration name="py断言失败后继续执行" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mystudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +152,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fzf_pytest/fixture之conftest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fzf_pytest/py断言失败后继续执行.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.py断言失败后继续执行" />
         <item itemvalue="Python tests.Unittests in mock_03.py" />
         <item itemvalue="Python tests.Unittests in mock_02.py" />
         <item itemvalue="Python tests.Unittests in mock_01.py" />
         <item itemvalue="Python.test_01" />
-        <item itemvalue="Python.fixture之conftest" />
       </list>
     </recent_temporary>
   </component>
@@ -175,17 +243,7 @@
       <serviceView>
         <option name="contentProportion" value="0.12608226" />
         <treeState>
-          <expand>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@71fdff15" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@71fdff15" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@41b20487" type="9fbbdea:ServiceModel$ServiceNode" />
-            </path>
-          </expand>
+          <expand />
           <select />
         </treeState>
       </serviceView>
@@ -273,7 +331,9 @@
       <workItem from="1587894617968" duration="17341000" />
       <workItem from="1588231436147" duration="6914000" />
       <workItem from="1588238541062" duration="248000" />
-      <workItem from="1588924501754" duration="4574000" />
+      <workItem from="1588924501754" duration="5252000" />
+      <workItem from="1589018951122" duration="350000" />
+      <workItem from="1589164382463" duration="11853000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1588238644592</created>
@@ -282,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588238644592</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mock">
+      <created>1588929115062</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588929115063</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,11 +370,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
-    <option name="LAST_COMMIT_MESSAGE" value="111" />
+    <MESSAGE value="mock" />
+    <option name="LAST_COMMIT_MESSAGE" value="mock" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mystudy$my_select.coverage" NAME="my_select Coverage Results" MODIFIED="1586503876724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql1" />
     <SUITE FILE_PATH="coverage/mystudy$.coverage" NAME="遍历域名 Coverage Results" MODIFIED="1583997102989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wlpc/数据采集" />
+    <SUITE FILE_PATH="coverage/mystudy$py.coverage" NAME="py断言失败后继续执行 Coverage Results" MODIFIED="1589182682570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fzf_pytest" />
     <SUITE FILE_PATH="coverage/mystudy$Unittests_for_updateCookie_updateCookies_test_lecturer_1.coverage" NAME="Unittests for updateCookie.updateCookies.test_lecturer_1 Coverage Results" MODIFIED="1578896129264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/mystudy$base64_a.coverage" NAME="base64_a Coverage Results" MODIFIED="1576575889894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/mystudy$rsetful01.coverage" NAME="rsetful01 Coverage Results" MODIFIED="1587113662649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask1" />
