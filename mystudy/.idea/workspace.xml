@@ -2,75 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee6945df-da95-4db0-97b7-6b6f2172a043" name="Default Changelist" comment="...">
-      <change afterPath="$PROJECT_DIR$/postman转化python/demo01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postman转化python/xiaoe.postman_collection.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0c702358-3548-440e-b458-a22d51c0f488.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4817f9e9-b01d-41b1-b3b7-63c02d41c344.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4817f9e9-b01d-41b1-b3b7-63c02d41c344/storage_v2/_src_/schema/db_data_portal.YCAWDw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4817f9e9-b01d-41b1-b3b7-63c02d41c344/storage_v2/_src_/schema/db_data_portal.YCAWDw.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4817f9e9-b01d-41b1-b3b7-63c02d41c344/storage_v2/_src_/schema/db_ex_crowd.wshfIg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4817f9e9-b01d-41b1-b3b7-63c02d41c344/storage_v2/_src_/schema/db_ex_crowd.wshfIg.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4817f9e9-b01d-41b1-b3b7-63c02d41c344/storage_v2/_src_/schema/db_ex_learn_record.98Q81Q.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4817f9e9-b01d-41b1-b3b7-63c02d41c344/storage_v2/_src_/schema/db_ex_learn_record.98Q81Q.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4817f9e9-b01d-41b1-b3b7-63c02d41c344/storage_v2/_src_/schema/db_ex_logs.-r56bA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4817f9e9-b01d-41b1-b3b7-63c02d41c344/storage_v2/_src_/schema/db_ex_logs.-r56bA.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4817f9e9-b01d-41b1-b3b7-63c02d41c344/storage_v2/_src_/schema/db_ex_sync_center.zqaHhA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4817f9e9-b01d-41b1-b3b7-63c02d41c344/storage_v2/_src_/schema/db_ex_sync_center.zqaHhA.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/835f286e-13d9-4830-aa36-9790790ea40a.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/835f286e-13d9-4830-aa36-9790790ea40a/storage_v2/_src_/schema/db_ex_business.ixtpZQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/835f286e-13d9-4830-aa36-9790790ea40a/storage_v2/_src_/schema/db_ex_business.ixtpZQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_daily_report.OzBxwQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_daily_report.OzBxwQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_data_portal.YCAWDw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_data_portal.YCAWDw.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_data_portal0723.6JZlXA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_data_portal0723.6JZlXA.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_ex_business.ixtpZQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_ex_business.ixtpZQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_ex_component.kjpWOw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_ex_component.kjpWOw.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_ex_config.zVVuKQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_ex_config.zVVuKQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_ex_crowd.wshfIg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_ex_crowd.wshfIg.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_ex_learn_record.98Q81Q.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_ex_learn_record.98Q81Q.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_ex_logs.-r56bA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_ex_logs.-r56bA.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_ex_sync_center.zqaHhA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_ex_sync_center.zqaHhA.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_fast_access_log.68fGXw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_fast_access_log.68fGXw.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_h5_v6_log.NgKP0w.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_h5_v6_log.NgKP0w.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_inner_report.XnHuVw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_inner_report.XnHuVw.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_laravel_log.fdZpOw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_laravel_log.fdZpOw.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_report_portal.1tf-Ig.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_report_portal.1tf-Ig.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_resource_tag.ChZY_A.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_resource_tag.ChZY_A.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_wu_xb_log.b3aygQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/db_wu_xb_log.b3aygQ.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/test.kkQ2AA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e6caf385-c1ac-4f1e-9a47-a0f3a1e20e4d/storage_v2/_src_/schema/test.kkQ2AA.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mystudy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/fzf_request/redis1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/分布式执行详解" beforeDir="false" afterPath="$PROJECT_DIR$/fzf_pytest/pytest分布式执行/分布式执行详解" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aaa/1111.py" beforeDir="false" afterPath="$PROJECT_DIR$/aaa/1111.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bnS0oFaugP165AsTERAfuBoXJj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -84,6 +61,81 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python.redis1">
+    <configuration name="简单抽奖" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aaa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa/简单抽奖.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1111" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aaa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa/1111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="redis1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fzf_request" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fzf_request/redis1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.redis1" />
+        <item itemvalue="Python.简单抽奖" />
+        <item itemvalue="Python.1111" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -94,7 +146,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589202353296</updated>
-      <workItem from="1589202354372" duration="502000" />
+      <workItem from="1589202354372" duration="694000" />
+      <workItem from="1589266149575" duration="51000" />
+      <workItem from="1589266201978" duration="36000" />
+      <workItem from="1589269954675" duration="13000" />
+      <workItem from="1589890346581" duration="2230000" />
+      <workItem from="1590026546800" duration="6705000" />
     </task>
     <servers />
   </component>
@@ -106,7 +163,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -115,5 +174,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="..." />
     <option name="LAST_COMMIT_MESSAGE" value="..." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mystudy$.coverage" NAME="简单抽奖 Coverage Results" MODIFIED="1589890511560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$redis1.coverage" NAME="redis1 Coverage Results" MODIFIED="1590046634199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fzf_request" />
+    <SUITE FILE_PATH="coverage/mystudy$1111.coverage" NAME="1111 Coverage Results" MODIFIED="1589890448113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
   </component>
 </project>
