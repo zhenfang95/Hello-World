@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee6945df-da95-4db0-97b7-6b6f2172a043" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aaa/冒泡排序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aaa/随机分配.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python多线程/xx01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python多线程/xx02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python多线程/xx03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apitest_platform-master/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apitest_platform-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python多线程/xx04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aaa/随机函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/aaa/随机函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpRunnerDemo/api/demo_api.yml" beforeDir="false" afterPath="$PROJECT_DIR$/HttpRunnerDemo/api/demo_api.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.xx03">
+  <component name="RunManager" selected="Python.xx04">
     <configuration name="随机函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mystudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,28 +150,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="redis1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mystudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fzf_request" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fzf_request/redis1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="xx01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mystudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,13 +216,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="xx04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python多线程/xx04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.xx04" />
         <item itemvalue="Python.xx03" />
         <item itemvalue="Python.随机函数" />
         <item itemvalue="Python.xx02" />
         <item itemvalue="Python.xx01" />
-        <item itemvalue="Python.redis1" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +267,7 @@
       <workItem from="1590111904614" duration="30000" />
       <workItem from="1591689969694" duration="3153000" />
       <workItem from="1591876549433" duration="1842000" />
-      <workItem from="1592221457712" duration="4456000" />
+      <workItem from="1592221457712" duration="7629000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1590048645923</created>
@@ -281,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590048645923</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".">
+      <created>1592226004138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592226004138</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,6 +310,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mystudy$.coverage" NAME="随机函数 Coverage Results" MODIFIED="1592224061269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/mystudy$xx01.coverage" NAME="xx01 Coverage Results" MODIFIED="1592222171998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python多线程" />
+    <SUITE FILE_PATH="coverage/mystudy$xx04.coverage" NAME="xx04 Coverage Results" MODIFIED="1592276961095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python多线程" />
     <SUITE FILE_PATH="coverage/mystudy$xx02.coverage" NAME="xx02 Coverage Results" MODIFIED="1592223572464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python多线程" />
     <SUITE FILE_PATH="coverage/mystudy$redis1.coverage" NAME="redis1 Coverage Results" MODIFIED="1590046634199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fzf_request" />
     <SUITE FILE_PATH="coverage/mystudy$1111.coverage" NAME="1111 Coverage Results" MODIFIED="1589890448113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
