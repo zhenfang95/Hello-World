@@ -72,3 +72,17 @@ print(sum(a))
 
 print(a[1:3])           #切片
 print(mags[0:1])
+print(a[::-1])  #倒序排序
+print(a[-1])  #取最后一位
+print(a[-3:-1])  #从后面开始取值
+
+b = [1,5,3,22,33,5,1,4,7,4]
+#去重
+bb=list(set(b))
+bb.sort()  #从小到大排序
+print(bb)
+#从小到大排序
+b.sort()  #方法二
+print(b)
+#拼接
+print(a+b)

@@ -25,3 +25,16 @@ print(t)
 k = favorite_language.strip()   #strip()同时删除字符串两端的空白
 print(k)
 
+a = "123asdd33"
+print(a[0:3])
+print(a[1::3]) #隔2位取值
+print(a[::-1]) #倒序排列
+print(a[-3:-1]) #取倒数第几的值
+#去重
+aa = list(set(a))
+aa.sort() #排序
+aaa = "".join(aa) #连接字符串数组。将字符串、元组、列表中的元素以指定的字符(分隔符)连接生成一个新的字符串
+print(aaa)
+
+w = "dhjsa/dsdd/2321sda"
+print(w.split("/")) #通过指定分隔符对字符串进行切片，转成列表格式

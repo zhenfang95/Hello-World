@@ -24,3 +24,4 @@ a = "1289"
 print(a[::-1])
 
 
+print([i for i in range(1,10)])
