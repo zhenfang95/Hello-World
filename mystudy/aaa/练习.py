@@ -46,3 +46,13 @@ for i in range(1,10):
         if i>=j:
             print('%d*%d=%-5d' %(i,j,i*j),end='')
     print()
+
+
+a = [1,2,7,9]
+b = [0,0]
+c = [-1,-9,-5,-2]
+abc = a + b +c
+print(abc)
+print(set(abc))
+abc.sort()
+print(abc)
