@@ -19,9 +19,11 @@ else:                          #没有意外，顺利执行，执行这一段
 
 file.close()        #关闭文件
 
-a = int
+
+#字符串切片
 a = "1289"
 print(a[::-1])
+print(a[1:3])
 
 
 print([i for i in range(1,10)])

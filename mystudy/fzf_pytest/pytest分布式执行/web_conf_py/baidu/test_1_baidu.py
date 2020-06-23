@@ -7,11 +7,13 @@ import pytest
 import time
 
 def test_01(start,open_baidu):
+    '''测试用例test_01'''
     print('测试用例test_01')
     time.sleep(1)
     assert start == 'yoyo'
 
 def test_02(start,open_baidu):
+    '''测试用例test_02'''
     print('测试用例test_02')
     time.sleep(1)
     assert start == 'yoyo'

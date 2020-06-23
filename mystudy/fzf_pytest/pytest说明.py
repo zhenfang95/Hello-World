@@ -111,6 +111,14 @@ pytest --html=./report/report.html
 3、生成独立报告
 pytest --html=report.html --self-contained-html
 
+4、生成allure报告
+--先安装好allure环境，cd到测试用例所在的目录文件，命令行执行：pytest --alluredir ./report/allure_raw
+--执行完成后，在当前目录下，report目录会生成一个allure_raw的原始文件，这个只是测试报告的原始文件，不能打开成html的报告
+--打开html的报告需要启动allure服务，启动命令：allure serve report/allure_raw
+--启动服务后它会自动给个端口，直接用默认浏览器打开了
+参考：https://www.cnblogs.com/yoyoketang/p/12004145.html
+
+
 失败重跑
 失败重跑需要依赖pytest-rerunfailures插件
 安装：pip install pytest-rerunfailures
