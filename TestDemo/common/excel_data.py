@@ -6,10 +6,10 @@ class ExcelVariable:
     caseID = 0
     caseName = 1
     method = 2
-    url = 3
-    data = 4
-    expect = 5
-    result = 6
+    data = 3
+    expect = 4
+    result = 5
+    my_sql = 6
 
 def getCaseID():
     return ExcelVariable.caseID
@@ -20,8 +20,8 @@ def getCaseName():
 def getMethod():
     return ExcelVariable.method
 
-def getUrl():
-    return ExcelVariable.url
+def getSql():
+    return ExcelVariable.my_sql
 
 def getRequest_Data():
     return ExcelVariable.data

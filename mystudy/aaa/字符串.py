@@ -38,3 +38,5 @@ print(aaa)
 
 w = "dhjsa/dsdd/2321sda"
 print(w.split("/")) #通过指定分隔符对字符串进行切片，转成列表格式
+
+print(a.upper())

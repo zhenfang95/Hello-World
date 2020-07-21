@@ -2,9 +2,9 @@
 #-*- coding:utf-8 -*-
 # @time:2020/4/10 15:40
 
-import mysql.connector
+import pymysql
 
-mydb = mysql.connector.connect(
+mydb = pymysql.connector.connect(
     host = '192.168.231.128',
     user = 'root',
     passwd = '123456',

@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="090ab29a-3e74-49e1-9eda-47d087a0c05a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../TestDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aaa/字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/aaa/字典.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aaa/字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/aaa/字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql1/my_updata.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysql1/my_updata.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +36,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.data.extractors.current.id" value="SQL Inserts" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../xiaoe/configUnitest" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -306,6 +308,7 @@
       <workItem from="1595068098959" duration="2660000" />
       <workItem from="1595080207309" duration="13000" />
       <workItem from="1595081298033" duration="632000" />
+      <workItem from="1595339289164" duration="673000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1588238644592</created>
@@ -357,10 +360,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589019160876" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1595080218425">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1595339960305">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595080218425" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595339960305" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1595074192033">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

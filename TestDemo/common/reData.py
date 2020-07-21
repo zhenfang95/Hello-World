@@ -18,3 +18,9 @@ def caseName():
     for i in row():
         name.append(OperationExcel().getCaseName(i))
     return name
+
+def my_sql():
+    sql1 = []
+    for i in row():
+        sql1.append(OperationExcel().getSql(i))
+    return sql1

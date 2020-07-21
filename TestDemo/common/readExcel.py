@@ -34,10 +34,6 @@ class OperationExcel:
         '''获取请求方式'''
         return self.getCell(row,getMethod())
 
-    def getUrl(self,row):
-        '''获取url'''
-        return self.getCell(row,getUrl())
-
     def getRequestData(self,row):
         '''获取请求参数'''
         return self.getCell(row,getRequest_Data())
@@ -49,4 +45,8 @@ class OperationExcel:
     def getResult(self,row):
         '''获取实际结果'''
         return self.getCell(row,getResult())
+
+    def getSql(self,row):
+        '''获取sql'''
+        return self.getCell(row,getSql())
 
