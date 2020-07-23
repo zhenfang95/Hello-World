@@ -16,7 +16,7 @@ class TestDemo:
     @pytest.mark.parametrize('row',dt.row(),ids=dt.caseName())   #ids是增加用例标题
     def testDemo(self,row):
         '''登录用例验证'''
-        if ml.getSql(row) == '':
+        if ml.getSql(row) == None:
             r = requests.post(url=yl.getFixedData(key1='url01'),data=ml.getRequestData(row))
             print(r.text)
             assert ml.getExpect(row) in r.text

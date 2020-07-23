@@ -3,13 +3,13 @@
 # @time:2019/9/16 10:51
 
 class ExcelVariable:
-    caseID = 0
-    caseName = 1
-    method = 2
-    data = 3
-    expect = 4
-    result = 5
-    my_sql = 6
+    caseID = 1
+    caseName = 2
+    method = 3
+    data = 4
+    expect = 5
+    result = 6
+    my_sql = 7
 
 def getCaseID():
     return ExcelVariable.caseID

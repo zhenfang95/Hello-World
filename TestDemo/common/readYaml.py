@@ -12,4 +12,3 @@ def getFixedData(title='pydata',key1=None):
     data=dict1[title].get(key1)   #通过key值获取内容
     readfile.close() #关闭yaml文件
     return data
-

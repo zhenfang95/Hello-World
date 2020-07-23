@@ -2,25 +2,25 @@
 #-*- coding:utf-8 -*-
 # @time:2019/9/16 10:01
 
-import xlrd,os
+import os,openpyxl
 from common.excel_data import *
 
 class OperationExcel:
     def __init__(self):
-        self.data = os.path.join(os.path.dirname(os.path.dirname(__file__)),'data','xiaoeTest.xls')
+        self.data = os.path.join(os.path.dirname(os.path.dirname(__file__)),'data','caseTest.xlsx')
 
     def getExcel(self):
-        db = xlrd.open_workbook(self.data)
-        sheet = db.sheet_by_index(0)
+        db = openpyxl.load_workbook(self.data)
+        sheet = db['demo']
         return sheet
 
     def getRows(self):
         '''获取行数'''
-        return self.getExcel().nrows
+        return self.getExcel().max_row
 
     def getCell(self,row,col):
         '''获取文件内容'''
-        return self.getExcel().cell_value(row,col)
+        return self.getExcel().cell(row=row,column=col).value
 
     def getCaseID(self,row):
         '''获取caseid'''
@@ -49,4 +49,6 @@ class OperationExcel:
     def getSql(self,row):
         '''获取sql'''
         return self.getCell(row,getSql())
+
+print(OperationExcel().getSql(3))
 
