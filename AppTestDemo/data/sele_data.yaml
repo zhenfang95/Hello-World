@@ -1,0 +1,5 @@
+login:
+  btn_login_id: com.tencent.mobileqq:id/btn_login
+  username_class: android.widget.EditText
+  password_id: com.tencent.mobileqq:id/password
+  login_id: com.tencent.mobileqq:id/login
