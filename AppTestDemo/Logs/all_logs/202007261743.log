@@ -1,0 +1,4 @@
+2020-07-26 17:44:03,614 - UI自动化日志 - INFO - 打开待测APP
+2020-07-26 17:44:07,877 - UI自动化日志 - INFO - 点击元素异常，原因：Message: An element could not be located on the page using the given search parameters.
+
+2020-07-26 17:44:10,126 - UI自动化日志 - INFO - 退出app
