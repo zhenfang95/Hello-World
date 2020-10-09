@@ -14,3 +14,4 @@ ss = str(s,'utf8') #把加密后的参数变为字符串并去掉‘b’
 #base64解密
 zz = base64.b64decode(ss)
 print(zz)
+

@@ -115,7 +115,6 @@ class PySele():
         except Exception as e:
             log1.error("执行js报错，原因：%s" %e)
 
-
     def get_screen(self, file_path):
         '''截图'''
         try:
