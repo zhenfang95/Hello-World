@@ -2,8 +2,7 @@
 #-*- coding:utf-8 -*-
 
 from tkinter import *
-import time
-import json,base64
+import json,base64,time,pyperclip
 from Crypto.PublicKey import RSA
 from Crypto.Signature import PKCS1_v1_5
 from Crypto.Hash import SHA256
@@ -41,11 +40,16 @@ class MY_GUI():
         self.log_data_Text.grid(row=13, column=12, columnspan=10)
         #按钮
         self.str_trans_to_md5_button = Button(self.init_window_name, text="ts加签名", bg="lightblue", width=10,command=self.str_trans_to_ts)  # 调用内部方法  加()为直接调用
-        self.str_trans_to_md5_button.grid(row=1, column=11)
+        self.str_trans_to_md5_button.grid(row=2, column=11)
 
-        self.str_trans_to_ts_button = Button(self.init_window_name, text="ts加签名_list", bg="lightblue", width=10,command=self.str_trans_ts_list)  # 调用内部方法  加()为直接调用
-        self.str_trans_to_ts_button.grid(row=2, column=11)
+        self.str_trans_to_ts_button = Button(self.init_window_name, text="ts加签名_list", bg="lightblue", width=10,command=self.str_trans_ts_list)
+        self.str_trans_to_ts_button.grid(row=3, column=11)
 
+        self.str_trans_copy_button = Button(self.init_window_name, text="复制结果", bg="lightblue", width=10,command=self.result_copy)
+        self.str_trans_copy_button.grid(row=5, column=11)
+
+    def result_copy(self):
+        pyperclip.copy(self.result_data_Text.get(1.0,END))
 
     #功能函数
     def str_trans_to_ts(self):
