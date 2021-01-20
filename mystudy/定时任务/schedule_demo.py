@@ -21,10 +21,14 @@ def tasklist():
     schedule.every(1).seconds.do(func)
     #创建一个按2秒间隔执行任务
     schedule.every(2).seconds.do(func2)
+    schedule.every().day.at("10:30").do(func2)
     #执行10S
-    for i in range(10):
+    # for i in range(10):
+    #     schedule.run_pending()
+    #     time.sleep(1)
+
+    while True:
         schedule.run_pending()
-        time.sleep(1)
 tasklist()
 
 #schedule.every(1)创建Job, seconds.do(func)按秒间隔查询并执行

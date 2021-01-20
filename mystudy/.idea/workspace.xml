@@ -19,25 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090ab29a-3e74-49e1-9eda-47d087a0c05a" name="Default Changelist" comment="md5&amp;rsa">
-      <change afterPath="$PROJECT_DIR$/../TestDemo/common/rsa_sign.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestDemo/data/RelyData.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aaa/RSA_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aaa/RSA加解密/rsa02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/定时任务/APScheduler_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/定时任务/Timer_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/定时任务/schedule_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AppTestDemo/.idea/AppTestDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AppTestDemo/.idea/AppTestDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AppTestDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AppTestDemo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AppTestDemo/common/sele_location.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AppTestDemo/common/sele_location.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/data/FixedData.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/data/FixedData.yaml" afterDir="false" />
+    <list default="true" id="090ab29a-3e74-49e1-9eda-47d087a0c05a" name="Default Changelist" comment="定时任务">
+      <change afterPath="$PROJECT_DIR$/GUI/Tkinter_py01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Tkinter_py02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/Tkinter_py03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aaa/MD5_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/aaa/MD5_a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aaa/RSA加解密/Cyphertext.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aaa/RSA加解密/Cyphertext.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aaa/RSA加解密/privkey.pem" beforeDir="false" afterPath="$PROJECT_DIR$/aaa/RSA加解密/privkey.pem" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aaa/RSA加解密/pubkey.pem" beforeDir="false" afterPath="$PROJECT_DIR$/aaa/RSA加解密/pubkey.pem" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aaa/RSA加解密/rsa01.py" beforeDir="false" afterPath="$PROJECT_DIR$/aaa/RSA加解密/rsa01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aaa/base64_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/aaa/base64_a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/定时任务/schedule_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/定时任务/schedule_demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +71,7 @@
       <recent name="D:\testdata\python\mystudy\wlpc\html解析" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.APScheduler_demo">
+  <component name="RunManager" selected="Python.Tkinter_py02">
     <configuration name="APScheduler_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mystudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,28 +86,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/定时任务/APScheduler_demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="RSA_a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mystudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aaa" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa/RSA_a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Tkinter_py01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mystudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,12 +124,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/定时任务" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\pyData_test\Github\Hello-World\mystudy\定时任务\demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Tkinter_py01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tkinter_py02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mystudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Tkinter_py02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,23 +206,23 @@
     </configuration>
     <list>
       <item itemvalue="Python.rsa02" />
-      <item itemvalue="Python.RSA_a" />
-      <item itemvalue="Python.demo_1" />
       <item itemvalue="Python.Timer_demo" />
       <item itemvalue="Python.schedule_demo" />
       <item itemvalue="Python.APScheduler_demo" />
+      <item itemvalue="Python.Tkinter_py01" />
+      <item itemvalue="Python.Tkinter_py02" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.APScheduler_demo" />
+        <item itemvalue="Python.Tkinter_py02" />
+        <item itemvalue="Python.Tkinter_py01" />
         <item itemvalue="Python.schedule_demo" />
+        <item itemvalue="Python.APScheduler_demo" />
         <item itemvalue="Python.Timer_demo" />
-        <item itemvalue="Python.demo_1" />
-        <item itemvalue="Python.RSA_a" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -342,7 +329,9 @@
       <workItem from="1597058233340" duration="1229000" />
       <workItem from="1597115667560" duration="8313000" />
       <workItem from="1597140594318" duration="849000" />
-      <workItem from="1602231870136" duration="2162000" />
+      <workItem from="1602231870136" duration="6164000" />
+      <workItem from="1605259546802" duration="80000" />
+      <workItem from="1611135118252" duration="4289000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1588238644592</created>
@@ -365,11 +354,18 @@
       <option name="project" value="LOCAL" />
       <updated>1596599823287</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="定时任务">
+      <created>1602234607967</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602234607967</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -387,57 +383,44 @@
     <MESSAGE value="111" />
     <MESSAGE value="postman请求转化python代码" />
     <MESSAGE value="md5&amp;rsa" />
-    <option name="LAST_COMMIT_MESSAGE" value="md5&amp;rsa" />
+    <MESSAGE value="定时任务" />
+    <option name="LAST_COMMIT_MESSAGE" value="定时任务" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597031333862">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1597031333862" />
-    <state x="498" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596598830164">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="498" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1596598830164" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1597136994201">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597136994201" />
-    <state width="1340" height="348" key="GridCell.Tab.0.bottom" timestamp="1602234304776">
+    <state width="1877" height="182" key="GridCell.Tab.0.bottom" timestamp="1611138762145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597141451463" />
-    <state width="1340" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602234304776" />
-    <state width="1340" height="348" key="GridCell.Tab.0.center" timestamp="1602234304776">
+    <state width="1877" height="182" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611138762145" />
+    <state width="1877" height="182" key="GridCell.Tab.0.center" timestamp="1611138762145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597141451463" />
-    <state width="1340" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602234304776" />
-    <state width="1340" height="348" key="GridCell.Tab.0.left" timestamp="1602234304776">
+    <state width="1877" height="182" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611138762145" />
+    <state width="1877" height="182" key="GridCell.Tab.0.left" timestamp="1611138762145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597141451463" />
-    <state width="1340" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602234304776" />
-    <state width="1340" height="348" key="GridCell.Tab.0.right" timestamp="1602234304776">
+    <state width="1877" height="182" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611138762145" />
+    <state width="1877" height="182" key="GridCell.Tab.0.right" timestamp="1611138762145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597141451463" />
-    <state width="1340" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602234304776" />
-    <state x="524" y="164" key="SettingsEditor" timestamp="1602231996061">
+    <state width="1877" height="182" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611138762145" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1611135331411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="524" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602231996061" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611135331411" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/mystudy$MD5_a.coverage" NAME="MD5_a Coverage Results" MODIFIED="1596597130063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$rsa02.coverage" NAME="rsa02 Coverage Results" MODIFIED="1597058304924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa/RSA加解密" />
-    <SUITE FILE_PATH="coverage/mystudy$base64_a.coverage" NAME="base64_a Coverage Results" MODIFIED="1597033136548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
-    <SUITE FILE_PATH="coverage/mystudy$RSA_a.coverage" NAME="RSA_a Coverage Results" MODIFIED="1597140968042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$demo_1.coverage" NAME="demo_1 Coverage Results" MODIFIED="1602232166636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/定时任务" />
     <SUITE FILE_PATH="coverage/mystudy$Timer_demo.coverage" NAME="Timer_demo Coverage Results" MODIFIED="1602232717276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/定时任务" />
-    <SUITE FILE_PATH="coverage/mystudy$MD5_a__1_.coverage" NAME="MD5_a (1) Coverage Results" MODIFIED="1596694016907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/mystudy$pytest_in_rsa02_py.coverage" NAME="pytest in rsa02.py Coverage Results" MODIFIED="1597031270402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa/RSA加解密" />
     <SUITE FILE_PATH="coverage/mystudy$rsa01.coverage" NAME="rsa01 Coverage Results" MODIFIED="1597058282330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa/RSA加解密" />
+    <SUITE FILE_PATH="coverage/mystudy$MD5_a.coverage" NAME="MD5_a Coverage Results" MODIFIED="1596597130063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$Tkinter_py01.coverage" NAME="Tkinter_py01 Coverage Results" MODIFIED="1611135546789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/mystudy$rsa02.coverage" NAME="rsa02 Coverage Results" MODIFIED="1597058304924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa/RSA加解密" />
+    <SUITE FILE_PATH="coverage/mystudy$base64_a.coverage" NAME="base64_a Coverage Results" MODIFIED="1597033136548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$schedule_demo.coverage" NAME="schedule_demo Coverage Results" MODIFIED="1602239802772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/定时任务" />
+    <SUITE FILE_PATH="coverage/mystudy$Tkinter_py02.coverage" NAME="Tkinter_py02 Coverage Results" MODIFIED="1611138762140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/mystudy$MD5_a__1_.coverage" NAME="MD5_a (1) Coverage Results" MODIFIED="1596694016907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
+    <SUITE FILE_PATH="coverage/mystudy$RSA_a.coverage" NAME="RSA_a Coverage Results" MODIFIED="1597140968042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aaa" />
     <SUITE FILE_PATH="coverage/mystudy$APScheduler_demo.coverage" NAME="APScheduler_demo Coverage Results" MODIFIED="1602234304770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/定时任务" />
-    <SUITE FILE_PATH="coverage/mystudy$schedule_demo.coverage" NAME="schedule_demo Coverage Results" MODIFIED="1602232819263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/定时任务" />
-    <SUITE FILE_PATH="coverage/mystudy$demo_1.coverage" NAME="demo_1 Coverage Results" MODIFIED="1602232166636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/定时任务" />
   </component>
 </project>
