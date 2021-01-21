@@ -18,8 +18,8 @@ class MY_GUI():
         self.init_window_name.title("tng加签工具_v1.0")           #窗口名
         #self.init_window_name.geometry('320x160+10+10')         #290 160为窗口大小，+10 +10 定义窗口弹出时的默认展示位置
         self.init_window_name.geometry('1068x681+10+10')
-        #self.init_window_name["bg"] = "pink"                    #窗口背景色，其他背景色见：blog.csdn.net/chl0000/article/details/7657887
-        #self.init_window_name.attributes("-alpha",0.9)          #虚化，值越小虚化程度越高
+        self.init_window_name["bg"] = "Ivory"                   #窗口背景色
+        self.init_window_name.attributes("-alpha",0.9)          #虚化，值越小虚化程度越高
         #标签
         self.init_data_label = Label(self.init_window_name, text="待处理数据")
         self.init_data_label.grid(row=0, column=0)
@@ -32,12 +32,16 @@ class MY_GUI():
         #文本框
         self.init_data_Text = Text(self.init_window_name, width=67, height=35)  #原始数据录入框
         self.init_data_Text.grid(row=1, column=0, rowspan=10, columnspan=10)
+        self.init_data_Text.configure(fg='red')                                  #修改字体颜色
         self.result_data_Text = Text(self.init_window_name, width=67, height=35)  #处理结果展示
         self.result_data_Text.grid(row=1, column=12, rowspan=10, columnspan=10)
+        self.result_data_Text.configure(fg='red')
         self.mch_data_Text = Text(self.init_window_name, width=66, height=9)  # 商户私钥输入框
         self.mch_data_Text.grid(row=13, column=0, columnspan=10)
+        self.mch_data_Text.configure(fg='red')
         self.log_data_Text = Text(self.init_window_name, width=66, height=9)  # 日志框
         self.log_data_Text.grid(row=13, column=12, columnspan=10)
+        self.log_data_Text.configure(fg='red')
         #按钮
         self.str_trans_to_ts_button = Button(self.init_window_name, text="ts接口加签", bg="lightblue", width=10,command=self.str_trans_ts_list)
         self.str_trans_to_ts_button.grid(row=3, column=11)
@@ -67,7 +71,7 @@ class MY_GUI():
                     self.write_log_to_Text("INFO:str_trans_to_ts success")
             except:
                 self.result_data_Text.delete(1.0,END)
-                self.result_data_Text.insert(1.0,"加签名失败，请重试……")
+                self.result_data_Text.insert(1.0, "加签名失败，请重试……")
         else:
             self.write_log_to_Text("ERROR:str_trans_to_ts failed")
 
@@ -158,8 +162,6 @@ def gui_start():
     ZMJ_PORTAL = MY_GUI(init_window)
     # 设置根窗口默认属性
     ZMJ_PORTAL.set_init_window()
-
     init_window.mainloop()          #父窗口进入事件循环，可以理解为保持窗口运行，否则界面不展示
-
 
 gui_start()
